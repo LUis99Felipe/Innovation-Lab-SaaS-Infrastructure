@@ -1,9 +1,9 @@
 # Agenda de Aulas para Professores
 
 # Membros:
-Luis Felipe de Souza Oliveira - RA: 2501173
-Enzo Panassol Zapparolli - RA: 2500187 
-João Vitor Fogaça Rocha - RA: 2500048
+- Luis Felipe de Souza Oliveira - RA: 2501173
+- Enzo Panassol Zapparolli - RA: 2500187 
+- João Vitor Fogaça Rocha - RA: 2500048
 
 ## Sobre o projeto
 
